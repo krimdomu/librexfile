@@ -1,4 +1,0 @@
-=head1 A library to read Rexfiles
-
-This is a library not intended for daily use. Use only if you're knowing what you're doing.
-
